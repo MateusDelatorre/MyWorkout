@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Meu trino</string>
+
+    <string name="button_add">Adicionar</string>
+
+    <string name="button_addExercice">Adicionar Exercício</string>
+    <string name="labelInsertName">Insira o nome do treino</string>
+    <string name="hintInsertWorkouName">Digite aqui...</string>
+    <string name="labelInserSeries">Series</string>
+    <string name="labelInserRepetitions">Repetições</string>
+    <string name="spinnerDefault">Selecionar Exercício</string>
+
+    //contextMenu
+    <string name="menuAddExercise">Cadastrar Exercício</string>
+    <string name="menuLabel">Digite aqui o nome do exercício...</string>
+    <string name="menuCancelOption">Cancelar</string>
+    <string name="menuSaveOption">Salvar</string>
+    <string name="workoutCountNull">Nenhum treino cadastrado</string>
+    <string name="ExerciseCountNull">Nenhum exercício cadastrado</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyWorkout</string>
+
+    <string name="button_add">Add </string>
+
+    <string name="button_addExercice">Add Exercise</string>
+    <string name="labelInsertName">Insert the workout name</string>
+    <string name="hintInsertWorkouName">Insert here</string>
+    <string name="labelInserSeries">Series</string>
+    <string name="labelInserRepetitions">Repetitions</string>
+    <string name="spinnerDefault">Select Exercise</string>
+
+    //contextMenu
+    <string name="menuAddExercise">Register Exercise</string>
+    <string name="menuLabel">Type the name of the exercise here</string>
+    <string name="menuCancelOption">Cancel</string>
+    <string name="menuSaveOption">Save</string>
+
+    <string name="workoutCountNull">No training registered</string>
+    <string name="ExerciseCountNull">No exercises registered</string>
+
+
+
+</resources>
